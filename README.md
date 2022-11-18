@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/abhayporwals" target="blank"><img src="https://img.shields.io/twitter/follow/abhayporwals?logo=twitter&style=for-the-badge" alt="abhayporwals" /></a> </p>
 
-- 🔭 I’m currently working on **My Portfolio Website, Clones**
+- 🔭 I’m currently working on **My Portfolio Website**
 
 - 🌱 I’m currently learning **DevOps**
 
