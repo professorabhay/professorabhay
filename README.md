@@ -1,39 +1,47 @@
-<h1 align="center">Hello👋🏻, I am ABHAY KUMAR GUPTA 🥷</h1>
-<h3 align="center">Hacker || Developer</h3>
-<img align="right" alt="Coding" width="300" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
- 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=professorabhay&label=Profile%20views&color=0e75b6&style=flat" alt="professorabhay" /> </p>
+<h2 align="left">Welcome To My Cloud ☁️</h2>
 
+###
 
+<h4 align="left">Who I am 🤔</h4>
 
-<p align="left"> <a href="https://twitter.com/abhayporwals" target="blank"><img src="https://img.shields.io/twitter/follow/abhayporwals?logo=twitter&style=for-the-badge" alt="abhayporwals" /></a> </p>
+###
 
-- 🔭 I’m currently working on **My Portfolio Website**
+<h6 align="left">Hi there, I'm Abhay, a passionate BCA student with a knack for web development using the MERN stack. Proficient in languages like C++, Java, and familiar with DevOps concepts such as Kubernetes, Docker, and Azure, I'm constantly exploring the world of technology. My enthusiasm for cybersecurity has led me into the world of bug hunting while also serving as a Beta Microsoft Learn Student Ambassador. I actively contribute to open-source projects, believing in the power of coding to create and decode innovative solutions. Let's write code and decode possibilities together 🚀</h6>
 
-- 🌱 I’m currently learning **DevOps**
+###
 
-- 👯 I’m looking to collaborate with **new peoples**
+<div align="center">
+  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+</div>
 
-- 🤝 I’m looking for help with **Open Source**
+###
 
-- 💬 Ask me about **Hacking, Penetration Testing, Linux, MERN, Docker.**
+<h4 align="left">Some tech that I use daily 💻</h4>
 
-- 📫 How to reach me **abhayakg123@gmail.com**
+###
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1clF_oR-OvWzgPF_9AZM-lMA1s6KuMnOr/view?usp=drivesdk](https://drive.google.com/file/d/1clF_oR-OvWzgPF_9AZM-lMA1s6KuMnOr/view?usp=drivesdk)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb" height="18" alt="mongodb logo"  />
+  <img width="9" />
+  <img src="https://skillicons.dev/icons?i=express" height="18" alt="express logo"  />
+  <img width="9" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="18" alt="react logo"  />
+  <img width="9" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="18" alt="nodejs logo"  />
+  <img width="9" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="18" alt="nextjs logo"  />
+  <img width="9" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="18" alt="graphql logo"  />
+  <img width="9" />
+  <img src="https://skillicons.dev/icons?i=docker" height="18" alt="docker logo"  />
+  <img width="9" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="18" alt="kubernetes logo"  />
+  <img width="9" />
+  <img src="https://skillicons.dev/icons?i=azure" height="18" alt="azure logo"  />
+</div>
 
-- ⚡ Fun fact **"Hack The World"**
+###
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/abhayporwals" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhayporwals" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/theabhayporwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="theabhayporwal" height="30" width="40" /></a>
-<a href="https://instagram.com/abhayporwals" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhayporwals" height="30" width="40" /></a>
-<a href="https://hashnode.com/abhayporwals.hashnode.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="abhayporwals.hashnode.dev" height="30" width="40" /></a>
-</p>
+<img src="https://raw.githubusercontent.com/professorabhay/professorabhay/output/snake.svg" alt="Snake animation" />
 
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=professorabhay&show_icons=true&locale=en" alt="professorabhay" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=professorabhay&" alt="professorabhay" /></p>
+###
