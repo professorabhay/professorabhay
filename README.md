@@ -10,12 +10,6 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="./gif.gif"  />
-</div>
-
-###
-
 <h3 align="left">Tech that I use daily 💻</h3>
 
 ###
@@ -39,9 +33,5 @@
   <img width="9" />
   <img src="https://skillicons.dev/icons?i=azure" height="25" alt="azure logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/professorabhay/professorabhay/output/snake.svg" alt="Snake animation" />
 
 ###
