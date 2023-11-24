@@ -6,7 +6,7 @@
 
 ###
 
-<h5 align="left">Hi there, I'm Abhay, a passionate BCA student with a knack for web development using the MERN stack. Proficient in languages like C++, Java, and familiar with DevOps concepts such as Kubernetes, Docker, and Azure, I'm constantly exploring the world of technology. My enthusiasm for cybersecurity has led me into the world of bug hunting while also serving as a Beta Microsoft Learn Student Ambassador. I actively contribute to open-source projects, believing in the power of coding to create and decode innovative solutions. Let's write code and decode possibilities together 🚀</h5>
+<h5 align="left">Abhay here, a BCA student passionate about MERN stack web development. Proficient in Java, and well-versed in DevOps tools like Kubernetes, Docker, and Azure. My cybersecurity enthusiasm drives bug hunting, and I proudly serve as a Beta Microsoft Learn Student Ambassador. Actively contributing to open-source projects, I believe in the transformative power of coding. Let's write code and unlock possibilities together!🚀</h5>
 
 ###
 
