@@ -1,8 +1,8 @@
-<h2 align="left">Welcome To My Cloud ☁️</h2>
+<h1 align="left">Welcome To My Cloud ☁️</h1>
 
 ###
 
-<h4 align="left">Who I am 🤔</h4>
+<h3 align="left">Who I am 🤔</h3>
 
 ###
 
@@ -16,28 +16,28 @@
 
 ###
 
-<h4 align="left">Some tech that I use daily 💻</h4>
+<h3 align="left">Tech that I use daily 💻</h3>
 
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb" height="18" alt="mongodb logo"  />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="25" alt="mongodb logo"  />
   <img width="9" />
-  <img src="https://skillicons.dev/icons?i=express" height="18" alt="express logo"  />
+  <img src="https://skillicons.dev/icons?i=express" height="25" alt="express logo"  />
   <img width="9" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="18" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" alt="react logo"  />
   <img width="9" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="18" alt="nodejs logo"  />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="25" alt="nodejs logo"  />
   <img width="9" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="18" alt="nextjs logo"  />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="25" alt="nextjs logo"  />
   <img width="9" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="18" alt="graphql logo"  />
+  <img src="https://skillicons.dev/icons?i=graphql" height="25" alt="graphql logo"  />
   <img width="9" />
-  <img src="https://skillicons.dev/icons?i=docker" height="18" alt="docker logo"  />
+  <img src="https://skillicons.dev/icons?i=docker" height="25" alt="docker logo"  />
   <img width="9" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="18" alt="kubernetes logo"  />
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="25" alt="kubernetes logo"  />
   <img width="9" />
-  <img src="https://skillicons.dev/icons?i=azure" height="18" alt="azure logo"  />
+  <img src="https://skillicons.dev/icons?i=azure" height="25" alt="azure logo"  />
 </div>
 
 ###
