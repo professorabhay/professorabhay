@@ -2,15 +2,15 @@
 
 ###
 
-<h3 align="left">Who I am 🤔</h3>
+<h3 align="left">🤔 Who I am ? </h3>
 
 ###
 
-<h5 align="left">Abhay here, a BCA student passionate about MERN stack web development. Proficient in Java, and well-versed in DevOps tools like Kubernetes, Docker, and Azure. My cybersecurity enthusiasm drives bug hunting, and I proudly serve as a Beta Microsoft Learn Student Ambassador. Actively contributing to open-source projects, I believe in the transformative power of coding. Let's write code and unlock possibilities together!🚀</h5>
+<h4 align="left">Abhay here, a BCA student passionate about MERN stack web development. Proficient in Java, and well-versed in DevOps tools like Kubernetes, Docker, and Azure. My cybersecurity enthusiasm drives bug hunting, and I proudly serve as a Beta Microsoft Learn Student Ambassador. Actively contributing to open-source projects, I believe in the transformative power of coding. Let's write code and unlock possibilities together!🚀</h4>
 
-###
+---
 
-<h3 align="left">Tech that I use daily 💻</h3>
+<h3 align="left">💻 Tech that I use daily : </h3>
 
 ###
 
@@ -34,4 +34,5 @@
   <img src="https://skillicons.dev/icons?i=azure" height="25" alt="azure logo"  />
 </div>
 
+---
 ###
