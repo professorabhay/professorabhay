@@ -1,6 +1,7 @@
 <p align = "center">
 <!-- <img src = "https://github.com/professorabhay/professorabhay/assets/76243309/1d9cffcf-24a4-4c99-b29b-74deb66ceecf" width = 100%/> -->
-<img src = "https://github.com/professorabhay/professorabhay/assets/76243309/fd555ba1-675a-44ee-bf0c-1e90267b288a" width = 100%/>
+<!-- <img src = "https://github.com/professorabhay/professorabhay/assets/76243309/fd555ba1-675a-44ee-bf0c-1e90267b288a" width = 100%/> -->
+<img src = "https://github.com/professorabhay/professorabhay/assets/76243309/26d711eb-d201-435b-90dc-4a020e2158ac" width = 100%/>
 </p>  
 
 <h1 align="left">Welcome To My Cloud ☁️</h1>
@@ -11,7 +12,7 @@
 
 ###
 
-<h4 align="left">Abhay here, a BCA student passionate about MERN stack web development. Proficient in Java, and well-versed in DevOps tools like Kubernetes, Docker, and Azure. My cybersecurity enthusiasm drives bug hunting, and I proudly serve as a Beta Microsoft Learn Student Ambassador. Actively contributing to open-source projects, I believe in the transformative power of coding. Let's write code and unlock possibilities together!🚀</h4>
+<h4 align="left">Abhay here, a final year BCA student passionate about MERN stack web development. Proficient in Java, and well-versed in DevOps tools like Kubernetes, Docker, and Azure. My cybersecurity enthusiasm drives bug hunting, and I proudly serve as a Beta Microsoft Learn Student Ambassador. Actively contributing to open-source projects, I believe in the transformative power of coding. Let's write code and unlock possibilities together!🚀</h4>
 
 ---
 
