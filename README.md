@@ -14,7 +14,7 @@
 
 ###
 
-<h4 align="left">Abhay here, a final year BCA student passionate about MERN stack web development and Google Summer of Code mentee at Chromium. Currently working on Cloud Native Tech and Web3 🚀</h4>
+<h4 align="left">Abhay here, a final year BCA student passionate about MERN stack web development and Google Summer of Code 2024 mentee at Chromium. Currently working on Cloud Native Tech and Web3 🚀</h4>
 
 ---
 
