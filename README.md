@@ -6,13 +6,15 @@
 
 <h1 align="left">Welcome To My Cloud ☁️</h1>
 
+<img align="right" src="https://media1.giphy.com/media/DdpmhAQpQZzwHSrQ3f/giphy.gif?cid=ecf05e47s3jvq8hd695wi55o6q6ap6b2lc01af39bskelry3&rid=giphy.gif&ct=s" width="250" height="250">
+
 ###
 
 <h3 align="left">🤔 Who I am ? </h3>
 
 ###
 
-<h4 align="left">Abhay here, a final year BCA student passionate about MERN stack web development. Proficient in Java, and well-versed in DevOps tools like Kubernetes, Docker, and Azure. My cybersecurity enthusiasm drives bug hunting, and I proudly serve as a Beta Microsoft Learn Student Ambassador. Actively contributing to open-source projects, I believe in the transformative power of coding. Let's write code and unlock possibilities together!🚀</h4>
+<h4 align="left">Abhay here, a final year BCA student passionate about MERN stack web development and Google Summer of Code mentee at Chromium. Currently working on Cloud Native Tech and Web3 🚀</h4>
 
 ---
 
