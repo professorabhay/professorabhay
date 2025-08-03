@@ -29,7 +29,7 @@
   <img width="9" />
   <img src="https://skillicons.dev/icons?i=docker" height="25" alt="docker logo" />
   <img width="9" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="25" alt="kubernetes logo" />
+  <img src="https://skillicons.dev/icons?i=aws" height="25" alt="aws logo" />
   <img width="9" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="25" alt="nodejs logo" />
   <img width="9" />
