@@ -11,9 +11,12 @@
 <h3 align="left">About Me</h3>
 
 <p align="left">
-  Hi, I'm <b>Abhay Gupta</b> — a backend-focused developer passionate about distributed systems, real-time architecture, and open source. I'm currently interning at <b>Keizerworks</b> (a startup studio) where I build multi-tenant LMS & ERP systems from the ground up. <br><br>
-  Previously, I contributed to the <b>Chromium team</b> as a <b>Google Summer of Code 2024</b> mentee and have made contributions to open source projects in the CNCF ecosystem, including <b>Kubernetes</b>, <b>Jenkins</b>, <b>WasmCloud</b>, and more.<br><br>
-  I also write technical blogs at <a href="https://abhayporwals.hashnode.dev" target="_blank"><b>abhayporwals.hashnode.dev</b></a> 
+  Hi, I'm <b>Abhay Gupta</b> — a backend-focused engineer with a strong interest in distributed systems, real-time architectures, and open source. I’ve worked as a <b>Founding Engineer / Partner</b> at early-stage startups, where I owned backend architecture, APIs, real-time systems, and platform reliability while building production-ready products from the ground up.
+  <br><br>
+  Previously, I was selected as a <b>Google Summer of Code 2024</b> contributor with the <b>Chromium</b> project, where I worked on the Web Audio Buffer rewrite, improving performance, test coverage, and production reliability in a large-scale open-source codebase.
+  <br><br>
+  I’ve also contributed to open source projects across the CNCF ecosystem, including <b>Kubernetes</b>, <b>Jenkins</b>, and <b>WasmCloud</b>, and I regularly write about engineering and system design at 
+  <a href="https://abhayporwals.hashnode.dev" target="_blank"><b>abhayporwals.hashnode.dev</b></a>.
 </p>
 
 ---
